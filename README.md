@@ -3,6 +3,8 @@ Very simple and basic todo list for android with clean architecture.
 
 The application was created due to helping to the coders, who just started android development. Hopefully you find it useful and you can study a lot from this project.
 
+***It is far from being in production ready state (and probably never will). This is not the goal of this project.***
+
 If you have any suggestion to modify something feel free to make an issue.
 
 ## Major technologies:
