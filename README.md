@@ -5,7 +5,7 @@ The application was created due to helping to the coders, who just started andro
 
 ***It is far from being in production ready state (and probably never will). This is not the goal of this project.***
 
-If you have any suggestion to modify something feel free to make an issue.
+If you have any suggestion to modify something feel free to make an issue or create a pull request.
 
 ## Major technologies:
 - Kotlin
